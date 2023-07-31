@@ -13,9 +13,9 @@ deskripsi: Anda sedang mencari Judul, Adhyasta dapat mewujudkan lapangan tenis y
         <div class="col-md-12">
             <div class="media-container-row">
                 <div class=" align-left aside-content">
-                    <h1 class="mbr-title pt-2 mbr-fonts-style display-2">
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     Kontraktor Batu Koral Sikat Garasi Adhyasta yang Profesional dan Terpercaya
-                    </h1>
+                    </h2>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     Pendahuluan
                     </h2>
