@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lapangan Tenis Rubber: Pilihan Ideal untuk Para Penggemar Tenis
+title: Lapangan Tenis Rubber &#59; Pilihan Ideal untuk Para Penggemar Tenis
 images: /assets/images/3-lapangan-futsal.jpg
 images-alt: Judul
 penulis: Denny Rakhmad Widi Ashari
