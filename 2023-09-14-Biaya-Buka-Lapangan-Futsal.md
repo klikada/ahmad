@@ -18,7 +18,7 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                            Pembukaan lapangan futsal adalah keputusan besar yang membutuhkan pemahaman yang mendalam tentang biaya, manfaat, dan dampaknya terhadap komunitas. Artikel ini akan mengulas secara mendalam tentang biaya pembukaan lapangan futsal, faktor-faktor yang memengaruhi biaya tersebut, serta manfaat yang dapat diharapkan dari investasi dalam fasilitas olahraga ini. Dengan pemahaman yang lebih baik tentang biaya dan manfaatnya, kita dapat mengapresiasi pentingnya lapangan futsal dalam dunia olahraga.
-                        </p>/
+                        </p>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                         Biaya Pembukaan Lapangan Futsal: Pengenalan dan Faktor-faktor yang Memengaruhi
                     </h2>  
