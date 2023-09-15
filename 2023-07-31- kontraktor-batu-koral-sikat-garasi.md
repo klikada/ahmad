@@ -8,7 +8,7 @@ photos: /assets/images/3-lapangan-futsal.jpg
 deskripsi: Anda sedang mencari Judul, Adhyasta dapat mewujudkan lapangan tenis yang indah, Segera Hubungi Kami !
 ---
 
-<section class="features11 cid-rravbvzsVT" id="features11-5">
+ <section class="features11 cid-rravbvzsVT" id="features11-5">
     <div class="container">
         <div class="col-md-12">
             <div class="media-container-row">
@@ -55,7 +55,7 @@ deskripsi: Anda sedang mencari Judul, Adhyasta dapat mewujudkan lapangan tenis y
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             Batu koral sikat memiliki daya tahan yang tinggi terhadap beban kendaraan dan perubahan cuaca. Dalam jangka panjang, ini akan mengurangi biaya perawatan dan perbaikan
                         </p>
-                        <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     3. Anti selip
                     </h2>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
